@@ -1,3 +1,4 @@
+# скачал для шаблона
 # Ansible Role: Jenkins CI
 
 [![CI](https://github.com/geerlingguy/ansible-role-jenkins/workflows/CI/badge.svg?event=push)](https://github.com/geerlingguy/ansible-role-jenkins/actions?query=workflow%3ACI)
